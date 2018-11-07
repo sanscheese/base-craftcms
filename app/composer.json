@@ -1,7 +1,7 @@
 {
   "name": "sanscheese/base-craftcms",
   "description": "A starting point for Craft builds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "craftcms/cms": "^3.0.0",
     "vlucas/phpdotenv": "^2.4.0",
