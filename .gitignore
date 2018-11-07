@@ -1,2 +1,30 @@
 zz_trash
+
+## General good stuff - Editors etc
+.cache
+.project
+.settings
+*.esproj
+*.sublime-workspace
+*.sublime-project
+*.tmproj
+*.tmproject
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+config.codekit3
+prepros-6.config
+/node_modules/*
+
+## Craft Specific
+/storage/*
+/web/dist/*
+/web/cpresources/*
+
+# Default by Pixel & Tonic
+/.env
+/.idea
+/vendor
 .DS_Store
